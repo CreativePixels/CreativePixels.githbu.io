@@ -10,7 +10,7 @@
 
 .articulo {
 	margin-bottom: 10px;
-	border-radius: 10px;
+	border-radius: 30px;
 	border: solid;
 	border-color: #969696;
 	background-color: #cdcdcd;
@@ -48,8 +48,8 @@
 }
 
 .ul {
-	border-bottom-right-radius: 30px;
-	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
     list-style-type: none;
     margin: 0;
     padding: 0;
