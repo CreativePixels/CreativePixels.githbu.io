@@ -116,17 +116,6 @@
 	color: black
 }
 
-.link:hover {
-	display: block;
-	position: relative;
-	background-color: white;
-	z-index: 10;
-}
-
-.link:hover a {
-	color: black;
-}
-
 .nombre p {
 	display: block;
     color: black;
