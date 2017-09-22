@@ -105,12 +105,26 @@
     text-decoration: none;
 }
 
+.active {
+	display: block;
+	position: relative;
+	background-color: yellow;
+	z-index: 10;
+}
+
+.active a {
+	color: black
+}
+
 .link:hover {
 	display: block;
 	position: relative;
-	padding-top: 20px;
-	background-color: black;
+	background-color: white;
 	z-index: 10;
+}
+
+.link:hover a {
+	color: black;
 }
 
 .nombre p {
