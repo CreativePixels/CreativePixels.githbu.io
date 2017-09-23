@@ -40,9 +40,9 @@
 
 .parrafo {
 	text-align: justify;
-	margin-right: 10px;
-	margin-left: 10px;
-	margin-bottom: 10px;
+	position: relative;
+	left: 10%;
+	width: 80%;
 }
 
 .categoria {
